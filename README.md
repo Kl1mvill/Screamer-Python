@@ -1,5 +1,5 @@
 # Screamer-Python
 Требется установить pygame
-"""py
-
-"""
+```py
+pip install pygame
+```
